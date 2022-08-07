@@ -35,7 +35,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
 if (__DEV__) {
-    require('longjohn');
+    // require('longjohn');
     app.use(require('morgan')('dev'));
     app.use((req, res, next) => {
         res.header('Cache-Control', 'private, no-cache, no-store, must-revalidate');

@@ -9,17 +9,9 @@
     "engines": {
         "node": ">=10.8.0"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/giladno/express-boilerplate.git"
-    },
     "keywords": [],
     "author": "Gilad Novik <gilad@novik.ca>",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/giladno/express-boilerplate/issues"
-    },
-    "homepage": "https://github.com/giladno/express-boilerplate#readme",
     "devDependencies": {
         "babel-eslint": "^10.0.1",
         "eslint": "^5.15.3",
@@ -29,11 +21,10 @@
         "cookie-session": "^2.0.0-beta.3",
         "ejs": "^2.6.1",
         "express": "^4.16.4",
-        "longjohn": "^0.2.12",
         "morgan": "^1.9.1",
+        "pg": "^8.7.3",
         "require-all": "^3.0.0",
         "sequelize": "^5.2.6",
-        "sqlite3": "^4.0.6",
         "winston": "^3.2.1"
     }
 }
