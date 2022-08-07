@@ -33,7 +33,6 @@ To get the Node server running locally:
 -   [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
 -   [Sequelize](http://docs.sequelizejs.com/) - a promise-based ORM for Node.js v4 and up, used to handle database migrations and queries
 -   [Morgan](https://github.com/expressjs/morgan) - an HTTP request logger
--   [longjohn](https://github.com/mattinsler/longjohn) - A module that helps display more info regarding stack traces
 -   [require-all](https://github.com/felixge/node-require-all) - An easy way to require all files within a directory
 -   [winston](https://github.com/winstonjs/winston) - Like console.log(), but better :)
 -   [cookie-session](https://github.com/expressjs/cookie-session) - Simple cookie-based session middleware, used to save and sync user session between the client and server
@@ -55,11 +54,6 @@ To get the Node server running locally:
 -   Password reset
 -   Adding Webpack to demonstrate bundle serving to the client
 -   Improve the project file structure, maybe separate to `config` etc.
-
-## Contributors
-
-[<img title="Gilad Novik" src="https://avatars1.githubusercontent.com/u/417148?s=50&v=4">](https://github.com/giladno)
-[<img title="Tal Koren" src="https://avatars1.githubusercontent.com/u/4380333?s=50&v=4">](https://github.com/Ardethian)
 
 ## License
 
